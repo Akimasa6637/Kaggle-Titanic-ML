@@ -6,6 +6,9 @@ Baselineモデルの作成を起点に、
 EDA(探索的データ分析)、特徴エンジニアリング、モデル選定、ハイパーパラメータの調整などを通じて、  
 予測精度の向上とモデルの解釈性の向上を目指しました。  
 
+コンペティションページ  
+=> [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)  
+
 ## ◇ 実施内容
 - Baselineモデルの構築(LightGBM)
 - 交差検証による学習と評価
