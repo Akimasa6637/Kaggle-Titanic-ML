@@ -18,7 +18,7 @@ EDA(探索的データ分析)、特徴エンジニアリング、モデル選定
 - モデル選定: CatBoostの採用
 - ハイパーパラメータ最適化
 - NNによる分類モデルの構築
-- Kaggle提出スコア (Public LB): Baseline **0.77751**, Main **0.78708**, NN **0.75358**  
+- Kaggle提出スコア (Public LB): Baseline **0.77751**, Main **0.78708**, NN **0.76076**  
 
 ## ◇ ファイル構成
 - Titanic_Main.ipynb: 基準となるベースラインモデル
